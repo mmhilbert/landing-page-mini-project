@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: darkgreen;
+
+}
+
+header {
+    padding: 8px;
+    text-align: right;
+    border-bottom: 5px solid tan;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    padding: 10px 40px;
+}
+
+footer {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px 10px;
+    border-bottom: 5px solid brown;
+}
+
+h1 {
+    color: rgb(68, 31, 31);
+}
+
+#contact-me {
+    background-color: tan;
+    padding: 50px 20px;
+}
+
+.formControl {
+    padding-bottom: 10px;
+}
+
