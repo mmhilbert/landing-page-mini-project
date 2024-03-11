@@ -33,13 +33,13 @@ form {
     margin-right: auto;
     text-align: center;
     width: 500px;
-    border: 5px solid brown;
+    border: 5px solid saddlebrown;
     border-radius: 15px;
 }
 
 
 button {
-    background-color: brown;
+    background-color: saddlebrown;
     color: white;
     padding: 10px 40px;
 }
@@ -48,7 +48,7 @@ footer {
     background-color: darkgreen;
     color: white;
     padding: 10px 10px;
-    border-bottom: 5px solid brown;
+    border-bottom: 5px solid saddlebrown;
 }
 
 h1 {
@@ -58,7 +58,7 @@ h1 {
 #contact-me {
     background-color: tan;
     padding: 50px 20px;
-    border-top: 5px solid brown;
+    border-top: 5px solid saddlebrown;
 }
 
 .formControl {
